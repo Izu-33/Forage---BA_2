@@ -10,7 +10,7 @@ arrivals and departures from the UK. The aim of this project is to predict custo
 
 ### Source
 
-The [dataset]() used was obtained from BA via Forage Virtual Experience platform.
+The [dataset](https://github.com/Izu-33/Forage---BA_2/tree/main/data) used was obtained from BA via Forage Virtual Experience platform.
 
 ### Features
 
@@ -64,17 +64,4 @@ Here is a link to the live [interactive dashboard](https://lookerstudio.google.c
 
 After a slideshow was created for presentation of findigs, as stakeholders would prefer to see summaries and not code and every little technical detail.
 Here is the [presentation](https://github.com/Izu-33/Forage---BA/blob/main/BA%20CUSTOMER%20REVIEW%20ANALYSIS.pdf).
-
-# Modeling (k-Means, LDA, Vader)
-
-- k-Means: k-Means clustering was used to cluster related words in the customer review comments (texts) and uncover
-hidden underlying topics in the discussions of the customers.
-
-- Latent Dirichlet Allocation (LDA): LDA is a generative probabilistic model of a corpus. This was used for topic
-modeling as well.
-
-- Vader: Used to build a model for sentiment scoring.
-
-
-Link to test the sentiment analyzer: [link](https://sentalyzer-app.onrender.com/gradio/)
 
